@@ -4,7 +4,7 @@ body, h1, h2, h3, h4, h5, h6 {
   }
 
   body {
-    background-image: url('/Users/mphhome/Code/Website/images/valeriia-miller-zEyv3o2z4oE-unsplash.png');
+    background-image: url('images/valeriia-miller-zEyv3o2z4oE-unsplash.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
